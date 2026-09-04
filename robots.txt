@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonyaquilino.github.io/snippets-js709k/sitemap.xml
